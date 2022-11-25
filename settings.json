@@ -1,0 +1,11 @@
+{
+    "name": "Votech",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/file_storage/core-sia": true,
+        "/category/file_storage/core-sia/mode": "single"
+    }
+}
